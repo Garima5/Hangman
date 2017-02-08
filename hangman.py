@@ -203,23 +203,7 @@ def hangman(secretWord):
         print "Congratulations, you won!"
     else:
         print "Sorry, you ran out of guesses. The word was ."+secretWord  
-          
-    
-            
-            
-        
-        
-        
-
-
-
-
-
-
-# When you've completed your hangman function, uncomment these two lines
-# and run this file to test! (hint: you might want to pick your own
-# secretWord while you're testing)
-
+         
 #secretWord = chooseWord(wordlist).lower()
 secretWord='cinderella'
 k=hangman(secretWord)
