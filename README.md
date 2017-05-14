@@ -1,5 +1,5 @@
 # Hangman
-####Hangman game created in Python 2.7.This was a part of MITx -  6.00.1x assignment
+###  Hangman game created in Python 2.7.This was a part of MITx -  6.00.1x assignment
 words.txt contains list of most common words
 ## To play the game:
 1) Download the project <br>
